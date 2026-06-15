@@ -1,0 +1,11 @@
+Agencies: Wide Bay Transit
+Feed Version: Unknown
+GTFS-to-HTML Version: 2.12.8
+Date Generated: 2026-06-15T06:16:34.464Z
+Timetable Page Count: 110
+Timetable Count: 222
+Calendar Service ID Count: 153
+Route Count: 110
+Trip Count: 469
+Stop Count: 6120
+Source: https://gtfsrt.api.translink.com.au/gtfs/MHB_SCH_GTFS.zip
